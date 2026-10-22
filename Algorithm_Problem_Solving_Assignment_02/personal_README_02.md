@@ -2,7 +2,7 @@
 Name: Parker
 Partner(s): Aiden
 Shared repository: https://github.com/AidenCanon/AL02-Parker-and-Aiden
-My contribution: I helped type out 
+My contribution: I typed out the Functions Analysis section and helped with the examinations for the functions and what Big-0 was used. I also helped analyze the Main.py file and Testcase.py file. I typed out the index_lookup function. 
 
 ## Run
 
@@ -19,7 +19,7 @@ py -3.14 test_assignment.py
 ## Functions Analysis
 
 ## Function First_ID(records)
-This function only examines one item.  I believe that it is O of 1 for the reasons of it is a constant of scanning only one ID. 
+This function only examines one item. I believe that it is O of 1 for the reasons of it is a constant of scanning only one ID. 
 ---
 ## Function All_IDs(records)
 This function examines every ID present in the code. I believe that it is O(n) because it runs through every record available only once.
@@ -38,7 +38,7 @@ This function examines every ID then repeatedly goes through them and reduces th
 3. Building an index means looking through the books and making a list that connects to book id thats stored. It's way more convenient (despite taking up additional storage) than it would be compared to not having an index because without an index, it would have to go through every single ID again starting from the first one. 
 
 ## AI Assistance
-* We did not use any AI for the code.
-* We did help out reassure our answers for the function and big-O examination were correct. After asking it to verify each one, it told us it was correct. 
+* I did not use any AI to help write out the index_lookup function nor any other pieces of code.
+* We did have AI help reassure our answers  when we collaborated for the function and big-O examination were correct. After asking it to verify each one, it told us it was correct. 
 
 ## Instructor's Feedback
