@@ -1,4 +1,17 @@
 # Chapter 1: Overview of Algorithms
+## Questions
+### What is the concept being introduced?
+
+
+### Why is it (the concept)important, and what problem does it solve?
+
+
+### When or how would I use it?
+
+
+### What parts of it do I not yet understand?
+
+
 ## Vocabulary
 ### Algorithm: 
 Set of rules that carry out some calculations to solve a problem.

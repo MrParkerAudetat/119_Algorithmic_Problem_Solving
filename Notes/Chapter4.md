@@ -1,7 +1,18 @@
 # Chapter 4: 
-## Vocabulary
-### Traveling Salesperson Problem (TSP) – 
+## Questions
+### What is the concept being introduced?
 
+
+### Why is it (the concept)important, and what problem does it solve?
+
+
+### When or how would I use it?
+
+
+### What parts of it do I not yet understand?
+
+
+## Vocabulary
 ### Functional requirements:
 Help understand data processing, data manipulation, and calculations that need implementation to generate result.
 
@@ -104,3 +115,4 @@ Optimal solution to a problem is made from optimal solutions to subproblems.
 1. Optimal structure
 
 2. Overlapping subproblems:
+

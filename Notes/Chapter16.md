@@ -1,4 +1,17 @@
 # Chapter 16:
+## Questions
+### What is the concept being introduced?
+
+
+### Why is it (the concept)important, and what problem does it solve?
+
+
+### When or how would I use it?
+
+
+### What parts of it do I not yet understand?
+
+
 ## Vocabulary
 ### Black box algorithms: 
 One whose logic is not interpretable by humans either due to its complexity or due to its logic being represented in a convoluted manner.
