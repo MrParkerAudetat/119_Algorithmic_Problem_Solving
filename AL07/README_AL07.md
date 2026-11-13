@@ -24,6 +24,9 @@ The --n option is used after enabling Thursday's stage.
 
 [No AI was used.]
 
+## Side Note
+I was not able to be a contributor because Aiden was not here to reinvite me after the first time where I forgot to login before I accepted the invite. And Jonah could not invite someone as a contributor.
+
 ## Instructor Comments
 
 [Reserved for instructor feedback.]
