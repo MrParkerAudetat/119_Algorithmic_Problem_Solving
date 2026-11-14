@@ -89,7 +89,7 @@ When a function stops calling itself and instead just returns.
 where function recurisevly calls itself.
 
 ### How many base cases and recursive cases do recursive functions have?
-One base case and one recursive case(?)
+At least one base case and one recursive case.
 
 ### What happens if a recursive function has zero base cases?
 
